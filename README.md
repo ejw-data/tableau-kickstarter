@@ -5,7 +5,6 @@ Author:  Erin James Wills, ejw.data@gmail.com
 ![Tableau Banner](./images/kickstarter-banner.png)  
 <cite>Photo by [micheile dot com](https://unsplash.com/@micheile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/money?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</cite>
 
-Photo by micheile dot com on Unsplash
 <br>
 
 ## Overview  
